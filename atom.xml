@@ -82,9 +82,9 @@
     <link href="https://dengxiaolan.net/2020/05/28/lishi/"/>
     <id>https://dengxiaolan.net/2020/05/28/lishi/</id>
     <published>2020-05-28T00:53:47.000Z</published>
-    <updated>2021-09-01T09:40:20.616Z</updated>
+    <updated>2021-10-04T06:25:55.948Z</updated>
     
-    <content type="html"><![CDATA[<p><del>2020.02.25 【始】dengxiaolan.com 域名申请。</del></p><span id="more"></span><p><del>2020.02.28 【框架】网站开设，使用Hugo搭建博客，挂载于github。</del></p><p><del>2020.05.15 【框架】更换wordpress博客系统框架，运行于腾讯云。</del></p><p><del>2020.06.01 【功能】媒体文件使用腾讯云cos和cdn服务，减少网站带宽的使用。</del></p><p><del>2020.06.11 【测试】通过阿里云进行访问压测，可以抗压20人同时访问。</del></p><p>2020.06.15 【功能】网站增加阅读次数统计，在每个文章的开头均有显示。</p><p><del>2021.02.20 【功能】原有数据库转移至腾讯云数据库中。</del></p><p>2021.08.20 【加速】DNS解析服务商更换为CloudFlare。</p><p>2021.08.27 【框架，域名】更换HEXO框架，域名改为dengxiaolan.net。</p><p>2021.08.30 【功能】媒体文件使用腾讯云cos。</p>]]></content>
+    <content type="html"><![CDATA[<p><del>2020.02.25 【始】dengxiaolan.com 域名申请。</del></p><span id="more"></span><p><del>2020.02.28 【框架】网站开设，使用Hugo搭建博客，挂载于github。</del></p><p><del>2020.05.15 【框架】更换wordpress博客系统框架，运行于腾讯云。</del></p><p><del>2020.06.01 【功能】媒体文件使用腾讯云cos和cdn服务，减少网站带宽的使用。</del></p><p><del>2020.06.11 【测试】通过阿里云进行访问压测，可以抗压20人同时访问。</del></p><p><del>2020.06.15 【功能】网站增加阅读次数统计，在每个文章的开头均有显示。</del></p><p><del>2021.02.20 【功能】原有数据库转移至腾讯云数据库中。</del></p><p>2021.08.20 【加速】DNS解析服务商更换为CloudFlare。</p><p>2021.08.27 【框架，域名】更换HEXO框架，域名改为dengxiaolan.net。</p><p>2021.08.30 【功能】媒体文件使用腾讯云COS。</p><p>2021.10.04 【功能】常用资源上CDN。</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;del&gt;2020.02.25 【始】dengxiaolan.com 域名申请。&lt;/del&gt;&lt;/p&gt;</summary>
